@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bXVzaWN8ZW58MHx8MHx8fDA%3D" 
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGlhbm98ZW58MHx8MHx8fDA%3D" 
+      },
+      {
+        "id": 3,
+        "title": "Advanced Vocal Techniques",
+        "slug": "advanced-vocal-techniques",
+        "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1505282722405-413748d3de7a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QWR2YW5jZWQlMjBWb2NhbCUyMFRlY2huaXF1ZXN8ZW58MHx8MHx8fDA%3D" 
+      },
+      {
+        "id": 4,
+        "title": "Drumming Mastery",
+        "slug": "drumming-mastery",
+        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1633485686989-50dda5b32ca4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RHJ1bW1pbmclMjBNYXN0ZXJ5fGVufDB8fDB8fHww"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JTIySmF6eiUyMEltcHJvdmlzYXRpb258ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "id": 6,
+        "title": "Music Production Fundamentals",
+        "slug": "music-production-fundamentals",
+        "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1471478331149-c72f17e33c73?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TXVzaWMlMjBQcm9kdWN0aW9uJTIwRnVuZGFtZW50YWxzfGVufDB8fDB8fHww"
+      },
+      {
+        "id": 7,
+        "title": "Songwriting Essentials",
+        "slug": "songwriting-essentials",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1593698054589-8c14bb66d2d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U29uZ3dyaXRpbmclMjBFc3NlbnRpYWxzfGVufDB8fDB8fHww"
+      },
+      {
+        "id": 8,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1653569397400-623b0189510a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RWxlY3Ryb25pYyUyME11c2ljJTIwUHJvZHVjdGlvbnxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "id": 9,
+        "title": "Classical Music History",
+        "slug": "classical-music-history",
+        "description": "Explore the rich history of classical music from its origins to the present day.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENsYXNzaWNhbCUyME11c2ljJTIwSGlzdG9yeXxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "id": 10,
+        "title": "Blues Guitar Techniques",
+        "slug": "blues-guitar-techniques",
+        "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1593697972646-2f348871bd56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Qmx1ZXMlMjBHdWl0YXIlMjBUZWNobmlxdWV8ZW58MHx8MHx8fDA%3D"
+      }
+    ]
+  }
+  
